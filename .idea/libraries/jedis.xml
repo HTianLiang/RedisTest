@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jedis">
+    <CLASSES>
+      <root url="file://E:/文件/手册&amp;jar包/redis/jedis" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/文件/手册&amp;jar包/redis/jedis" recursive="false" />
+  </library>
+</component>
